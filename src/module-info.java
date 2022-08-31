@@ -1,0 +1,2 @@
+module lambda_samples {
+}
